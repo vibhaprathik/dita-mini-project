@@ -1,26 +1,11 @@
-# dita-mini-project
-Explaining simple concept of API using DITA
-
 # 📘 DITA Mini Project – Beginner Practice
 
-This is a simple DITA-XML project I created as part of my learning journey toward structured authoring and topic-based writing.
+This project demonstrates how to write structured DITA topics using XML.
 
-It includes three core topic types used in DITA:
-- ✅ **Concept**: Explains what an API is
-- ✅ **Task**: Walks through how to call an API
-- ✅ **Reference**: Lists common API error codes in a table
-- 🗺️ **DITA Map**: Bundles them all together for publishing
+Includes:
+- **Concept topic**: What is an API?
+- **Task topic**: How to make an API call
+- **Reference topic**: Common API error codes (in a table)
+- **DITA Map**: Combines all into one guide for publishing
 
----
-
-## 🧱 Project Structure
-
-dita-mini-project/
-├── concept/
-│ └── what-is-api.dita
-├── task/
-│ └── call-api-step-by-step.dita
-├── reference/
-│ └── api-error-codes.dita
-├── map/
-│ └── api-guide.ditamap
+All files are valid DITA topics and can be opened in tools like Oxygen XML Editor or DITA-OT.

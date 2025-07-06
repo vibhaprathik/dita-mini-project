@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<task id="call-api-step-by-step">
+  <title>How to Make an API Call</title>
+  <taskbody>
+    <context>
+      <p>Follow these steps to send a basic GET request to an API using a browser or tool like Postman.</p>
+    </context>
+    <steps>
+      <step>
+        <cmd>Open your web browser or API testing tool.</cmd>
+      </step>
+      <step>
+        <cmd>Enter the API URL endpoint (e.g., https://api.example.com/data).</cmd>
+      </step>
+      <step>
+        <cmd>Click Send or press Enter to make the request.</cmd>
+      </step>
+      <step>
+        <cmd>Review the JSON response returned by the server.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

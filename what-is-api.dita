@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+
+<topic id="what-is-api">
+  <title>What is an API?</title>
+  <body>
+    <p>An API (Application Programming Interface) allows different software systems to communicate with each other. It defines a set of rules and protocols for accessing a service or application.</p>
+    <p>For example, a weather app uses an API to fetch temperature data from a weather server.</p>
+  </body>
+</topic>

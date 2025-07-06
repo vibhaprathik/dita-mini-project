@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<map>
+  <title>API Documentation Guide</title>
+  <topicref href="../concept/what-is-api.dita" navtitle="What is an API?" />
+  <topicref href="../task/call-api-step-by-step.dita" navtitle="How to Make an API Call" />
+  <topicref href="../reference/api-error-codes.dita" navtitle="API Error Codes" />
+</map>

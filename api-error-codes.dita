@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<reference id="api-error-codes">
+  <title>API Error Codes</title>
+  <refbody>
+    <section>
+      <title>Common API Error Codes</title>
+      <table>
+        <tgroup cols="3">
+          <thead>
+            <row>
+              <entry>Error Code</entry>
+              <entry>Meaning</entry>
+              <entry>Resolution</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>400</entry>
+              <entry>Bad Request</entry>
+              <entry>Check your parameters or syntax.</entry>
+            </row>
+            <row>
+              <entry>401</entry>
+              <entry>Unauthorized</entry>
+              <entry>Ensure your API key or token is valid.</entry>
+            </row>
+            <row>
+              <entry>500</entry>
+              <entry>Internal Server Error</entry>
+              <entry>Try again later or contact support.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </refbody>
+</reference>

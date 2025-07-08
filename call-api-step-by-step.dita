@@ -9,7 +9,7 @@
     </context>
     <steps>
       <step>
-        <cmd>Open your web browser or API testing tool.</cmd>
+        <cmd>Open your Web Browser or API testing tool.</cmd>
       </step>
       <step>
         <cmd>Enter the API URL endpoint (e.g., https://api.example.com/data).</cmd>
